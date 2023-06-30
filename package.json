@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage":"https://liam7-denin.github.io/My-Ecommerce-Website",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
